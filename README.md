@@ -8,7 +8,7 @@ This is a TextField Library for iOS that helps to handle automatically textfield
 
 1) Copy TFAutoManager.swift to your Xcode Project.
 
-2) The only thing you have to do, is to instanciate TFAutoManager within your ViewController and call the setup() method by passing your ViewController's view. Then, you can set the TFAutoManager instance as your textfields delegate.
+2) The only thing you have to do, is to instanciate TFAutoManager from your ViewController and call the setup() method by passing your ViewController's view. Then, you can set the TFAutoManager instance as your textfields delegate.
 
 Following is an example:
 
