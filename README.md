@@ -10,7 +10,7 @@ The only thing you have to do, is to instanciate TFAutoManager within your ViewC
 
 Following is an example:
 
-```
+```swift
 class ViewController: UIViewController {
 
     @IBOutlet weak var txtField1: UITextField!
